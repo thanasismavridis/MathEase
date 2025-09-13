@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/MathEase/static/css/main.003f2931.css",
-    "main.js": "/MathEase/static/js/main.48efb40d.js",
-    "static/js/453.451e3fbe.chunk.js": "/MathEase/static/js/453.451e3fbe.chunk.js",
+    "main.css": "/MathEase/static/css/main.5ba117bf.css",
+    "main.js": "/MathEase/static/js/main.65268dd8.js",
     "index.html": "/MathEase/index.html",
-    "main.003f2931.css.map": "/MathEase/static/css/main.003f2931.css.map",
-    "main.48efb40d.js.map": "/MathEase/static/js/main.48efb40d.js.map",
-    "453.451e3fbe.chunk.js.map": "/MathEase/static/js/453.451e3fbe.chunk.js.map"
+    "main.5ba117bf.css.map": "/MathEase/static/css/main.5ba117bf.css.map",
+    "main.65268dd8.js.map": "/MathEase/static/js/main.65268dd8.js.map"
   },
   "entrypoints": [
-    "static/css/main.003f2931.css",
-    "static/js/main.48efb40d.js"
+    "static/css/main.5ba117bf.css",
+    "static/js/main.65268dd8.js"
   ]
 }
